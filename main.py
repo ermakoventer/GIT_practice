@@ -5,3 +5,4 @@ def say_hello() -> None:
 say_hello()
 
 add = "Add one string"
+q = 12345
