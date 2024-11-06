@@ -8,3 +8,6 @@ add = "Add one string"
 q = 12345
 
 some = "Good"
+
+a = 123
+
