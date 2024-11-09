@@ -1,1 +1,2 @@
 privet user1
+line from user2
