@@ -1,6 +1,2 @@
 privet user1
-<<<<<<< HEAD
 another line from user1
-=======
-line from user2
->>>>>>> b1607248c8042f932cddc26f8c1aca3bc8915488
